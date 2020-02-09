@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Simulator Screen Shot - iPhone Xʀ - 2020-02-04 at 03.25.10.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Simulator Screen Shot - iPhone Xʀ - 2020-02-04 at 03.25.10-1.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Simulator Screen Shot - iPhone Xʀ - 2020-02-04 at 03.25.10-2.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
